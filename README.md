@@ -18,11 +18,17 @@ Stores it in a predefined directory
 
 ▶️ How to Run the .sh Scripts
 Give execution permission
+
 chmod +x scriptname.sh
+
 Execute the script
+
 ./scriptname.sh
+
 Fixing permission errors
+
 Check directory using pwd
+
 Ensure file is executable
 
 AUTHOR
